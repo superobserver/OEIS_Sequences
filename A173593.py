@@ -1,4 +1,6 @@
 
+#this sequence repeats the following digital root pattern:
+#(3, 5, 6, 2, 4, 4, 9, 9, 9, 1, 1, 2)
 a=3
 b=5
 c=6
